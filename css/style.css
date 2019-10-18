@@ -1,0 +1,12 @@
+body {
+    margin-top: 56px;
+}
+
+.feature {
+    padding: 1em 0;
+    background: linear-gradient(180deg, #FFFFFF 0%, #F9F9F9 100%);
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.websqldatabase .feature { color: green; }
+.no-websqldatabase .feature { color: red; }
