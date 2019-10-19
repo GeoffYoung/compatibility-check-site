@@ -8,5 +8,5 @@ body {
     border-bottom: 1px solid #CCCCCC;
 }
 
-.websqldatabase .feature { color: green; }
-.no-websqldatabase .feature { color: red; }
+.supported { color: green; }
+.not-supported { color: red; }
